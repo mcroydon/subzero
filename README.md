@@ -18,4 +18,6 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 
 ## Websites
 
+* [Cornell University Autonomous Underwater Vehicle](http://www.cuauv.org/) contains lots of information about their builds and [lots of open source software](https://github.com/cuauv/software). They [published a paper](http://www.cuauv.org/pdfs/Cornell_Journal_Paper_RS15.pdf) about their most recent vehicle, Argo.
 * [The Cave Pearl Project](https://edwardmallon.wordpress.com/) has a lot of info on DIY encasing and sensors.
+* [The Autonomous Undersea Systems Institude](http://ausi.org/)

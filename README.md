@@ -25,6 +25,7 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 * [Ryan Kastner at UCSD](http://kastner.ucsd.edu/ryan/underwater-communications/) talks about a custom transducer modem.
 * [Northeastern University](http://www.ece.neu.edu/wineslab/underwater_sensor_networks.php) has done some research on underwater sensor networks.
 * [Aquasent](http://www.aquasent.com/acoustic-modems/) is a commercial underwater modem provider.
+* [Mike's Sub Works](http://www.mikessubworks.com/) uses 75 MHz RC gear to communicate with small ROVs.
 
 ## Books and Articles
 

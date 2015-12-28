@@ -20,7 +20,7 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 
 * Most ROVs use a tether to communicate. Tethers appear to be the only way to carry enough bandwidth from the ROV to base station to cover the requirements of live video and other sensor/telemetry requirements.
 * I plan to experiment with [RTL SDR](http://www.rtl-sdr.com/) inexpensive software defined radios at the lower end of their useful spectrum (20-100MHz) to see if there's a way to carry a little bit of bandwidth longer distances.
-* [UCSD](http://cseweb.ucsd.edu/~b1benson/publications/oceans10.pdf) have created an extremely low bandwidth (200 BPS) but long distance (2km) acoustical modem for $600. Other commercial options include LinkQeust and Teledyne Benthos in the $8k-$10k range.
+* [UCSD](http://cseweb.ucsd.edu/~b1benson/publications/oceans10.pdf) have created an extremely low bandwidth (200 BPS) but long distance (2km) acoustical modem for $600. Other commercial options include LinkQuest and Teledyne Benthos in the $8k-$10k range.
 * [WHOI Micromodem](http://acomms.whoi.edu/micro-modem/) is also in the $8k range.
 * [Ryan Kastner at UCSD](http://kastner.ucsd.edu/ryan/underwater-communications/) talks about a custome transducer modem.
 * [Northeastern University](http://www.ece.neu.edu/wineslab/underwater_sensor_networks.php) has done some research on underwater sensor networks.

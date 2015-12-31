@@ -33,6 +33,7 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 * [OpenROV](http://www.openrov.com/) have been working on ROVs in the open for awhile and also sell kits.
 * [Cornell University Autonomous Underwater Vehicle](http://www.cuauv.org/) contains lots of information about their builds and [lots of open source software](https://github.com/cuauv/software). They [published a paper](http://www.cuauv.org/pdfs/Cornell_Journal_Paper_RS15.pdf) about their most recent vehicle, Argo.
 * [ArduPilot](http://ardupilot.com/) is a long running successful project that encompasses hardware and mission planning mostly for airborne UAVs. No direct applications to AUVs but lots of things were learned the hard way here.
+* [Coconut Pi](https://coconutpi.wordpress.com) a Raspberry Pi and ArduPilot project from 2013.
 
 ## Books and Articles
 

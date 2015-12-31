@@ -39,6 +39,7 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 * [The ROV Manual, Second Edition: A User Guide for Remotely Operated Vehicles](http://www.amazon.com/dp/0080982883): This focuses on observation-class ROVs and larger, and has a lot of information a small ROV/AUV can ignore. Overall it's a good into that filled in the state of the art of sensors and other things. It goes in to a ridiculous amount of detail of some things and glosses over others, but it's a helpful bootstrap.
 * [Underwater Robotics : Science, Design and Fabrication](http://www.amazon.com/dp/0984173706) is the other big book on the subject. I haven't skimmed through this one.
 * [The American Practical Navigator](http://msi.nga.mil/NGAPortal/MSI.portal?_nfpb=true&_pageLabel=msi_portal_page_62&pubCode=0002), first published by Bowdich and updated by lots of people has lots of background on navigation.
+* [The Internet Underwater: An IP-compatible Protocol Stack for Commercial Undersea Modems](http://www.ece.neu.edu/wineslab/papers/Yifan_WUWNet2013.pdf) a paper about running a full TCP/IP stack on the Teledyne Benthos SM-75.
 
 ## Websites
 

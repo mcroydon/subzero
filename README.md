@@ -42,6 +42,7 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 * [Underwater Robotics : Science, Design and Fabrication](http://www.amazon.com/dp/0984173706) is the other big book on the subject. I haven't skimmed through this one.
 * [The American Practical Navigator](http://msi.nga.mil/NGAPortal/MSI.portal?_nfpb=true&_pageLabel=msi_portal_page_62&pubCode=0002), first published by Bowdich and updated by lots of people has lots of background on navigation.
 * [The Internet Underwater: An IP-compatible Protocol Stack for Commercial Undersea Modems](http://www.ece.neu.edu/wineslab/papers/Yifan_WUWNet2013.pdf) a paper about running a full TCP/IP stack on the Teledyne Benthos SM-75.
+* [An Evaluation of Potential Operating Systems for Autonomous Underwater Vehicles](www.dtic.mil/get-tr-doc/pdf?AD=ADA591400) [PDF] compares general and embedded operating systems as well as many robotics-oriented platforms.
 
 ## Websites
 

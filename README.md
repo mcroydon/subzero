@@ -50,3 +50,4 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 * [Autonomous Undersea Vehicle Applications Center](http://auvac.org/)
 * [Homebuild ROVs](http://www.homebuiltrovs.com/rovforum/index.php) forum
 * [RC-Sub-Workshop](http://www.rc-sub-workshop.com) is aimed at functional RC scale models but has great prices on acrylic tubes, motors, and specialized electronics.
+* [The SubCommittee](http://www.subcommittee.com) is a group of scale RC sub enthusiasts with lots of basic information and links to vendors.

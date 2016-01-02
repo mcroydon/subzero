@@ -35,6 +35,7 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 * [ArduPilot](http://ardupilot.com/) is a long running successful project that encompasses hardware and mission planning mostly for airborne UAVs. No direct applications to AUVs but lots of things were learned the hard way here.
 * [Coconut Pi](https://coconutpi.wordpress.com) a Raspberry Pi and ArduPilot project from 2013.
 * [The Robot Operating System](http://www.ros.org) is used in many land-based robots and some UAVs and is worth further investigation.
+* [Collective Cognitive Robots](http://cocoro.uni-graz.at/drupal/) is researching collaboration between swarms of underwater robots.
 
 ## Books and Articles
 

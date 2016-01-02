@@ -44,6 +44,11 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 * [The Internet Underwater: An IP-compatible Protocol Stack for Commercial Undersea Modems](http://www.ece.neu.edu/wineslab/papers/Yifan_WUWNet2013.pdf) a paper about running a full TCP/IP stack on the Teledyne Benthos SM-75.
 * [An Evaluation of Potential Operating Systems for Autonomous Underwater Vehicles](www.dtic.mil/get-tr-doc/pdf?AD=ADA591400) [PDF] compares general and embedded operating systems as well as many robotics-oriented platforms.
 
+## Simulation
+
+* [UWSim](http://www.irs.uji.es/uwsim/) is an open source dedicated ROV/AUV simulator for Linux.
+* [Gazebo](http://gazebosim.org) is an open source cross-platform general robotics simulator. AUV plugins include [gazebo-uav-sim](https://github.com/msporyshev/gazebo-auv-sim) and [freefloating_gazebo](https://github.com/freefloating-gazebo/freefloating_gazebo).
+
 ## Websites
 
 * [Woods Hole Oceanographic Institution](http://www.whoi.edu/) has [an AUV page](http://www.whoi.edu/main/auvs) with links to several vehicles.

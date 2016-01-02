@@ -24,7 +24,7 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 * [WHOI Micromodem](http://acomms.whoi.edu/micro-modem/) is also in the $8k range.
 * [Ryan Kastner at UCSD](http://kastner.ucsd.edu/ryan/underwater-communications/) talks about a custom transducer modem.
 * [Northeastern University](http://www.ece.neu.edu/wineslab/underwater_sensor_networks.php) has done some research on underwater sensor networks.
-* The team behind [Design and Implementation of an Omni-Directional Underwater Acoustic Micro-Modem Based on a Low-Power Micro-Controller Unit](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3304167/) from the journal Sensors looks at transmission loss at various frequencies and builds their own underwater modem with a transducer.
+* The team behind [Design and Implementation of an Omni-Directional Underwater Acoustic Micro-Modem Based on a Low-Power Micro-Controller Unit](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3304167/) from the journal Sensors looks at transmission loss at various frequencies and builds their own underwater modem with a transducer. They reach 5kbps at 30m using a 70MHz transducer.
 * [Aquasent](http://www.aquasent.com/acoustic-modems/) is a commercial underwater modem provider.
 * [Mike's Sub Works](http://www.mikessubworks.com/) uses 75 MHz RC gear to communicate with small ROVs.
 

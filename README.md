@@ -45,6 +45,7 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 * [The American Practical Navigator](http://msi.nga.mil/NGAPortal/MSI.portal?_nfpb=true&_pageLabel=msi_portal_page_62&pubCode=0002), first published by Bowdich and updated by lots of people has lots of background on navigation.
 * [The Internet Underwater: An IP-compatible Protocol Stack for Commercial Undersea Modems](http://www.ece.neu.edu/wineslab/papers/Yifan_WUWNet2013.pdf) a paper about running a full TCP/IP stack on the Teledyne Benthos SM-75.
 * [An Evaluation of Potential Operating Systems for Autonomous Underwater Vehicles](www.dtic.mil/get-tr-doc/pdf?AD=ADA591400) [PDF] compares general and embedded operating systems as well as many robotics-oriented platforms.
+* [Achieving High Navigation Accuracy Using Inertial Navigation Systems in Autonomous Underwater Vehicles](http://auvac.org/uploads/publication_pdf/Achieving-High-Navigation-Accuracy-using-INSs-in-AUVsPanishJune-2011.pdf) details the intertial navigation system of the Bluefin AUV.
 
 ## Simulation
 

@@ -49,6 +49,7 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 
 * [UWSim](http://www.irs.uji.es/uwsim/) is an open source dedicated ROV/AUV simulator for Linux.
 * [Gazebo](http://gazebosim.org) is an open source cross-platform general robotics simulator. AUV plugins include [gazebo-uav-sim](https://github.com/msporyshev/gazebo-auv-sim) and [freefloating_gazebo](https://github.com/freefloating-gazebo/freefloating_gazebo).
+* [MARS](http://www.iti.uni-luebeck.de/forschung/mobile-robotik/mars.html) the MArine Robotics Simulator is designed for hardware-in-the-loop testing of AUVs, integrating with ROS and several robots developed at Institut für Technische Informatik.
 
 ## Websites
 

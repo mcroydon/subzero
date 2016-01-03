@@ -62,3 +62,17 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 * [Homebuild ROVs](http://www.homebuiltrovs.com/rovforum/index.php) forum
 * [RC-Sub-Workshop](http://www.rc-sub-workshop.com) is aimed at functional RC scale models but has great prices on acrylic tubes, motors, and specialized electronics.
 * [The SubCommittee](http://www.subcommittee.com) is a group of scale RC sub enthusiasts with lots of basic information and links to vendors.
+
+## Vehicle Design
+
+### Version 0: Sensors on a Line
+
+The first physical task is to construct a platform for component validation. This will likely be a small watertight enclosure weighted for negative bouyancy suspended from the surface from a line. A minimal set of components:
+
+* Raspberry Pi Zero
+* Power source (USB battery pack?)
+* Sensors
+  * Pressure/temperature
+  * Bottom/distance
+
+This should also be able to serve as a communications test platform, but that's not strictly required for initial testing.

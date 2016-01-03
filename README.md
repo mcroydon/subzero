@@ -37,6 +37,7 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 * [Coconut Pi](https://coconutpi.wordpress.com) a Raspberry Pi and ArduPilot project from 2013.
 * [The Robot Operating System](http://www.ros.org) is used in many land-based robots and some UAVs and is worth further investigation.
 * [Collective Cognitive Robots](http://cocoro.uni-graz.at/drupal/) is researching collaboration between swarms of underwater robots.
+* [Amador Valley High School Robotics Club Barracuda](http://www.avbotz.com/ourauv/) for the [RoboSub competition](http://www.auvsifoundation.org/foundation/competitions/competition-central/robosub).
 
 ## Books and Articles
 

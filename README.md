@@ -11,9 +11,9 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
   * Many ROVs use an [underwater acoustic positioning system](https://en.wikipedia.org/wiki/Underwater_acoustic_positioning_system) such as [Long Baseline Acoustic Positioning System](https://en.wikipedia.org/wiki/Long_baseline_acoustic_positioning_system) or [Short Baseline Acoustic Positioning System](https://en.wikipedia.org/wiki/Short_baseline_acoustic_positioning_system).
   * [Inertial Navigation Systems](https://en.wikipedia.org/wiki/Inertial_navigation_system) are often used to augment other systems.
 
-## Thrusters
+## Thrusters and other components
 
-* [Bue Robotics](http://www.bluerobotics.com/) has a relatively inexpensive electrical thruster that they funded with Kickstarter.
+* [Bue Robotics](http://www.bluerobotics.com/) has a relatively inexpensive electrical thruster that they funded with Kickstarter. They also carry cast acrylic watertight enclosures and end-cap cable penetrators.
 * Lots of DIY builds involve repurposing an electric bilge pump, removing the housing, and adding a propeller. 
 
 ## Communication

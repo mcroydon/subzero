@@ -10,8 +10,11 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
   * GPS is only really an option on the surface since water attenuates RF signals pretty quickly.
   * Many ROVs use an [underwater acoustic positioning system](https://en.wikipedia.org/wiki/Underwater_acoustic_positioning_system) such as [Long Baseline Acoustic Positioning System](https://en.wikipedia.org/wiki/Long_baseline_acoustic_positioning_system) or [Short Baseline Acoustic Positioning System](https://en.wikipedia.org/wiki/Short_baseline_acoustic_positioning_system).
   * [Inertial Navigation Systems](https://en.wikipedia.org/wiki/Inertial_navigation_system) are often used to augment other systems.
-* Bottom (Depth sonar)
+* Bottom (Depth sonar), sometiles called an Altimeter
   * [Coconut Pi](http://www.rs-online.com/designspark/electronics/blog/coconut-pi-individual-components-development-for-an-auv) and [Model_UBoatMC](https://github.com/emmesolutions/Model_UBoatMC) have used the weatherproof but not rated for underwater use [Maxbotix MB7078](http://www.maxbotix.com/Ultrasonic_Sensors/MB7072.htm) at depths of 1-3 meters.
+  * [Kongsberg](http://www.km.kongsberg.com/ks/web/nokbg0240.nsf/AllWeb/188AD958095B7127C1256CFC00300A95?OpenDocument), [Valeport](http://www.valeport.co.uk/Applications/MetrologyandPositioning/MetrologyandPositioningProductDetails/ProductID/39/List/0.aspx?SortField=ProductName,ProductName) sell commercial versions but are larger than I'd like.
+  * [Oceantools](http://www.oceantools.co.uk/rov/ma500d-altimeter/) and [Tritech](http://www.tritech.co.uk/product/tritech-micron-echo-sounder-ultra-compact-altimeter) have smaller models.
+  * In [Development of a Small Sonar Altimeter and Constant Altitude Controller for a Miniature Autonomous Underwater Vehicle](http://scholar.lib.vt.edu/theses/available/etd-02182005-150817/unrestricted/luan_thesis.pdf), Jessica Luan describes building her own altimeter from a waterproof transducer.
 
 ## Thrusters and other components
 

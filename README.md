@@ -73,7 +73,7 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero
 
 ### Version 0: Sensors on a Line
 
-The first physical task is to construct a platform for component validation. This will likely be a small watertight enclosure weighted for negative bouyancy suspended from the surface from a line. A minimal set of components:
+The first task is to construct a platform for component validation. This will likely be a small watertight enclosure weighted for negative bouyancy suspended from the surface from a line. A minimal set of components:
 
 * Raspberry Pi Zero
 * Power source (USB battery pack?)

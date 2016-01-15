@@ -16,6 +16,7 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero.
   * [Oceantools](http://www.oceantools.co.uk/rov/ma500d-altimeter/) and [Tritech](http://www.tritech.co.uk/product/tritech-micron-echo-sounder-ultra-compact-altimeter) have smaller models.
   * In [Development of a Small Sonar Altimeter and Constant Altitude Controller for a Miniature Autonomous Underwater Vehicle](http://scholar.lib.vt.edu/theses/available/etd-02182005-150817/unrestricted/luan_thesis.pdf), Jessica Luan describes building her own altimeter from a waterproof transducer.
   * There are several low-ish cost ($75-175) transducers for boat fish/bottom finders from Garmin and others. The challenge here would be interpreting raw data or using an NMEA 0183 or NMEA 2000 transducer and decoding that.
+  * [This Arduino forum thread](http://forum.arduino.cc/index.php?topic=139357.0) makes me think that [these inexpensive 40 KHz transducers](http://www.amazon.com/dp/B00IJ672YE) could be used in lieu of making your own from scratch for Luan's approach.
   * [Mark Thompson](http://www.mbtelectronics.com/side-scan-sonar.php) shares in detail his home built side-scanning sonar.
   * [The Ardupilot controlled transducer boat](http://diydrones.com/profiles/blogs/the-ardupilot-controlled-transducer-boat-part-3) details a surface-based sonar vessel powered by Ardupilot.
 

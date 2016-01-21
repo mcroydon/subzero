@@ -80,7 +80,8 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero.
 The first task is to construct a platform for component validation. This will likely be a small watertight enclosure weighted for negative bouyancy suspended from the surface from a line. A minimal set of components:
 
 * Raspberry Pi Zero
-* Power source (USB battery pack?)
+* Power source
+  * The [$6 2000 mAh Amazon Basics battery](http://www.amazon.com/dp/B00LRK8EVO) works great but the triangular portion of the cord blocks usage of the USB port. An extension cord or a different battery should solve that though.
 * Sensors
   * Pressure/temperature
   * Bottom/distance

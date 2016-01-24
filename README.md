@@ -83,6 +83,7 @@ The first task is to construct a platform for component validation. This will li
 * Raspberry Pi Zero
 * Power source
   * The [$6 2000 mAh Amazon Basics battery](http://www.amazon.com/dp/B00LRK8EVO) works great but the triangular portion of the cord blocks usage of the USB port. An extension cord or a different battery should solve that though.
+  * Tzumi markets several low-cost mobile device rechargers under the Pocket Juice name. [This 2200 mAh model](http://www.amazon.com/dp/B00QDCG0KS) can be found for as little as $5 in stores and comes with a micro USB cord that doesn't block the other port.
 * Sensors
   * Pressure/temperature
   * Bottom/distance

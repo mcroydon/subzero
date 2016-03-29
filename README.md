@@ -5,7 +5,7 @@ Casual research in to underwater robotics powered by the Raspberry Pi Zero.
 ## Sensors
 
 * Depth (Pressure)
-  * [Measurement Specialties](http://www.meas-spec.com/pressure-sensors/board-level-pressure-sensors/digital-pressure-sensor-modules.aspx) has a line of amazing MEMS-based pressure sensors that are tiny, accurate, and easy to use. SparkFun has a breakout board for the [MS5803-14BA](https://www.sparkfun.com/products/12909) and [The Cave Pearl Project](https://edwardmallon.wordpress.com/2014/03/27/adding-a-ms5803-02-high-resolution-pressure-sensor/) goes in to detail on embedding external sensors in epoxy.
+  * [Measurement Specialties](http://www.meas-spec.com/pressure-sensors/board-level-pressure-sensors/digital-pressure-sensor-modules.aspx) has a line of amazing MEMS-based pressure sensors that are tiny, accurate, and easy to use. SparkFun has a breakout board for the [MS5803-14BA](https://www.sparkfun.com/products/12909) and [The Cave Pearl Project](https://edwardmallon.wordpress.com/2014/03/27/adding-a-ms5803-02-high-resolution-pressure-sensor/) goes in to detail on embedding external sensors in epoxy. An inexpensive breakout board [is available on Taobao](http://world.taobao.com/item/40283333265.htm?spm=a312a.7700714.0.0.aB4HS9#detail).
 * Positioning
   * GPS is only really an option on the surface since water attenuates RF signals pretty quickly.
   * Many ROVs use an [underwater acoustic positioning system](https://en.wikipedia.org/wiki/Underwater_acoustic_positioning_system) such as [Long Baseline Acoustic Positioning System](https://en.wikipedia.org/wiki/Long_baseline_acoustic_positioning_system) or [Short Baseline Acoustic Positioning System](https://en.wikipedia.org/wiki/Short_baseline_acoustic_positioning_system).
